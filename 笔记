@@ -1,0 +1,3 @@
+Spring Cloud 的所有配置文件都是由SpringConfigListener来加载的（.xml或.yml）
+
+谷歌浏览器插件：json-viewer
